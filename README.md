@@ -1,1 +1,4 @@
-# Utilizing BitBadges for Gamified Learning Experiences
+___
+# Utilizing BitBadges for Gamified Learning Experiences 
+> **By Andrew M. K. Nassif**
+___
