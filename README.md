@@ -4,15 +4,14 @@ ___
 ___
 
 #### Table of Contents
-1. [Abstract](#example)
-2. [Introdution](#example2)
-3. [Architecture](#third-example)
-4. [Database](#third-example)
-5. [Game Theory](#third-example)
-6. [Gamification](#third-example)
-7. [Summary](#third-example)
-8. [Conclusion](#third-example)
-
+1. [Abstract](#abstract)
+2. [Introdution](#introduction)
+3. [Architecture](#architecture)
+4. [Database](#database)
+5. [Game Theory](#game-theory)
+6. [Gamification](#gamification)
+7. [Summary](#summary)
+8. [Conclusion](#conclusion)
 
 ## Abstract
 ## Introduction
