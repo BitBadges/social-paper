@@ -14,6 +14,11 @@ ___
 8. [Conclusion](#third-example)
 
 
-## Example [](#){name=example}
-## Example2 [](#){name=example2}
-## [Third Example](#){name=third-example}
+## Abstract
+## Introduction
+## Architecture
+## Database
+## Game Theory
+## Gamification
+## Summary
+## Conclusion
