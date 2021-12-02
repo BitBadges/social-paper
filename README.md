@@ -4,7 +4,7 @@ ___
 ___
 
 ## Abstract
-BitBadges is establishing a blockchain standard that can be utilized in the creation of gamified learning experiences. Gamified learning experiences can be tailored towards how students interact with courses, audience engagement levels, different reward tiers, projects, assignments and course completion. Utilizing BitBadges and blockchain technology, everything can be quite easy to distribute, and eventually you can use badges as markers to create sociophysics models. Perhaps in the future, badges can redefine learning and learning can be mathematically optimized towards making everybody "super-learners". The implementation of the BitBadges can potentially be the first phase.
+BitBadges is establishing a blockchain standard that can be utilized in the creation of gamified learning experiences. Gamified learning experiences can be tailored towards how students interact with courses, audience engagement levels, different reward tiers, projects, assignments and course completion. Utilizing BitBadges and blockchain technology, everything can be quite easy to distribute, and eventually you can use badges as markers to create sociophysics models. Perhaps in the future, badges can redefine learning and learning can be mathematically optimized towards making everybody "super-learners". The implementation of BitBadges can potentially be the first phase.
 
 ## Introduction
 BitBadges is an emerging blockchain standard. This document is in relation to what it wants to do with gamified learning experiences and the Digital Learning Challenge (XPrize). 
