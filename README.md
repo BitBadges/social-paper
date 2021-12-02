@@ -3,16 +3,6 @@ ___
 > **By Andrew M. K. Nassif**
 ___
 
-#### Table of Contents
-1. [Abstract](#abstract)
-2. [Introdution](#introduction)
-3. [Architecture](#architecture)
-4. [Database](#database)
-5. [Game Theory](#game-theory)
-6. [Gamification](#gamification)
-7. [Summary](#summary)
-8. [Conclusion](#conclusion)
-
 ## Abstract
 BitBadges is establishing a blockchain standard that can be utilized in the creation of gamified learning experiences. Gamified learning experiences can be tailored towards how students interact with courses, audience engagement levels, different reward tiers, projects, assignments and course completion. Utilizing BitBadges and blockchain technology, everything can be quite easy to distribute, and eventually you can use badges as markers to create sociophysics models. Perhaps in the future, badges can redefine learning and learning can be mathematically optimized towards making everybody "super-learners". The implementation of the BitBadges can potentially be the first phase.
 
@@ -24,7 +14,7 @@ BitBadges 2.0 is an improvement over BitBadges 1.0. A small preprint on the arch
 
 ## Database
 
-Regarding the badge issuing mechanism, the database structure is quite specific. 
+Regarding the badge issuing mechanism, the database structure is quite specific. Below is an example of how the structure looks for the 1.0 specification.
 
 ```javascript
 {
@@ -48,10 +38,7 @@ Regarding the badge issuing mechanism, the database structure is quite specific.
     validDates: boolean //true if badge has start/end dates, false if valid forever
 }
 ```
+Notably, you have various attributes including start and end date, regular valid dates, issuer, issuerChain, etc. The can be utilized in various different ways.
 
 ## Game Theory
-There are many implications in regards to game theory and how badges will be used to establish different models. Many things will be centered around Social Physics. What that means, is that eventually you can mathematically optimize retention, create new badge types, create time intervals, create different media types and establish universes of data. 
-
-## Gamification
-## Summary
-## Conclusion
+There are many implications in regards to game theory and how badges will be used to establish different models. Many things will be centered around Social Physics. What that means, is that eventually you can mathematically optimize retention, create new badge types, create time intervals, create different media types and establish universes of data.
