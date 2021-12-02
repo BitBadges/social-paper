@@ -17,6 +17,29 @@ ___
 ## Introduction
 ## Architecture
 ## Database
+```javascript
+{
+    attributes: string, //valid JSON object string; not currently implemented
+    backgroundColor: string, //Valid HTML color name or hex string
+    category: string, //not currently implemented
+    collectionId: string, //not currently implemented
+    dateCreated: Number, //number of milliseconds since UNIX epoch
+    description: string,
+    externalUrl: string, //must be in valid URL format
+    id: string,
+    imageUrl: string, //please use permanent image storage solutions; badges are permanent
+    isVisible: boolean, //currently always set to true
+    issuer: string, 
+    issuerChain: string,
+    recipients: string array,
+    recipientsChains: string array,
+    title: string, 
+    validDateEnd: Number, //number of milliseconds since UNIX epoch
+    validDateStart: Number, //number of milliseconds since UNIX epoch
+    validDates: boolean //true if badge has start/end dates, false if valid forever
+}
+```
+
 ## Game Theory
 ## Gamification
 ## Summary
