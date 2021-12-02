@@ -14,6 +14,8 @@ ___
 8. [Conclusion](#conclusion)
 
 ## Abstract
+BitBadges is establishing a blockchain standard that can be utilized in the creation of gamified learning experiences. Gamified learning experiences can be tailored towards 
+
 ## Introduction
 ## Architecture
 ## Database
