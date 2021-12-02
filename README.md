@@ -20,7 +20,7 @@ BitBadges is establishing a blockchain standard that can be utilized in the crea
 BitBadges is an emerging blockchain standard. This document is in relation to what it wants to do with gamified learning experiences and the Digital Learning Challenge (XPrize). 
 
 ## Architecture
-BitBadges 2.0 is an improvement over BitBadges 1.0. 
+BitBadges 2.0 is an improvement over BitBadges 1.0. A small preprint on the architecture can be read [here](https://github.com/BitBadges/Whitepaper/blob/main/2021-1186.pdf). The computing paradigm will be offline-first and it will be privacy-oriented.
 
 ## Database
 ```javascript
