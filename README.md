@@ -47,7 +47,7 @@ BitBadges 2.0 is an improvement over BitBadges 1.0. A small preprint on the arch
 ```
 
 ## Game Theory
-There are many implications in regards to game theory and how badges will be used to establish different models. Many things will be centered around Social Physics. What that means, is that
+There are many implications in regards to game theory and how badges will be used to establish different models. Many things will be centered around Social Physics. What that means, is that eventually you can mathematically optimize retention, create new badge types, create time intervals, create different media types and establish universes of data. 
 
 ## Gamification
 ## Summary
