@@ -47,6 +47,8 @@ BitBadges 2.0 is an improvement over BitBadges 1.0.
 ```
 
 ## Game Theory
+There are many implications in regards to game theory and how badges will be used to establish different models. 
+
 ## Gamification
 ## Summary
 ## Conclusion
